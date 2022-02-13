@@ -65,7 +65,14 @@ iframe{
 .left{
   margin:100px 40% 24px 60%;
 }
-
+.dl{
+  width:200px;
+  margin-left: 50px;
+}
+#title{
+  text-align: left;
+  padding-right: 0px;
+}
 
 #Ilogo{
   border-radius: 8px;
