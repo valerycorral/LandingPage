@@ -12,36 +12,42 @@
   padding 700px;
   display: inline-block;
   line-height: 40px;
-  color:white;
 }
+
 .signin li{
   width: 150px;
   background-color: #6AB2F2;
   border:1px solid black ;
-  padding 50px;
+  padding 200px;
   display: inline-block;
   line-height: 40px;
-  color:white;
+
 }
 .signin ul{
   list-style: none;
   width: 500px;
   margin: 0 auto;
-  background-color: white;
-  test-align:right;
+  text-align:right;
 
 }
 #si{
-  border-radius:60%;
-  background-color: #00FF00;
-  color: white;
-
+  border-radius: 30%;
+  background-color: #00CA00;
+  text-decoration: none;
+}
+#join{
+  color: black;
+  text-decoration: none;
+}
+.let{
+  color:white;
+  text-decoration: none;
 }
 .bnb{
   background-color: #6AB2F2;
 }
-.flex-container {
+/* .flex-container {
     display: flex;
     flex-wrap: wrap;
 
-  }
+  } */
