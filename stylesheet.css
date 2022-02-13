@@ -1,6 +1,6 @@
 .navbar ul{
   list-style:none;
-  width: 1000px;
+  width: 100%;
   margin: 0 auto;
   background-color: #6AB2F2;
   text-align: center;
@@ -8,14 +8,14 @@
 .navbar li{
   width: 150px;
   background-color: #6AB2F2;
-  padding 50px;
+  padding: 50px;
   display: inline-block;
   line-height: 40px;
-  margin: 30px;
+
 }
 .signin ul{
   list-style: none;
-  width: 500px;
+  width: 100%;
   margin: 0 auto;
   text-align:right;
 
@@ -24,7 +24,7 @@
   width: 150px;
   background-color: #6AB2F2;
   border:1px solid black ;
-  padding 200px;
+  padding 50px;
   display: inline-block;
   line-height: 40px;
 
@@ -52,6 +52,7 @@
 iframe{
   overflow: hidden;
   width : 100%;
+  margin:0 auto;
 }
 /* .flex-container {
     display: flex;
