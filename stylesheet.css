@@ -65,7 +65,7 @@ iframe{
 
 .dl{
   width:200px;
-  margin-left: 50px;
+  margin-left: 40px;
   background-color: orange;
 }
 #title{
@@ -77,6 +77,8 @@ iframe{
   border-radius: 8px;
   width: 40px;
   height: auto;
+  text-align: left;
+  padding-right: 0px;
 }
 /* .flex-container {
     display: flex;
