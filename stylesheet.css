@@ -8,12 +8,18 @@
 .navbar li{
   width: 150px;
   background-color: #6AB2F2;
-  border:1px solid black ;
-  padding 700px;
+  padding 50px;
   display: inline-block;
   line-height: 40px;
+  margin: 30px;
 }
+.signin ul{
+  list-style: none;
+  width: 500px;
+  margin: 0 auto;
+  text-align:right;
 
+}
 .signin li{
   width: 150px;
   background-color: #6AB2F2;
@@ -23,13 +29,7 @@
   line-height: 40px;
 
 }
-.signin ul{
-  list-style: none;
-  width: 500px;
-  margin: 0 auto;
-  text-align:right;
 
-}
 #si{
   border-radius: 30%;
   background-color: #00CA00;
@@ -45,6 +45,10 @@
 }
 .bnb{
   background-color: #6AB2F2;
+}
+iframe{
+  overflow: hidden;
+  width : 200%;
 }
 /* .flex-container {
     display: flex;
