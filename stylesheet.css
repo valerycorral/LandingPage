@@ -2,21 +2,17 @@
   list-style:none;
   width: 500px;
   margin: 0 auto;
-  background-color: blue;
+  background-color: white;
   text-align: center;
 }
 .navbar li{
   width: 150px;
-  background-color: green;
-  border: 1px solid black;
-  padding 10px;
+  background-color: white;
+  border:1px solid black ;
+  padding 50px;
   display: inline-block;
   line-height: 40px;
 }
-#bnb{
-  background-color: blue;
-}
-p{
-  color: blue;
-  font-weight: bold;
+.bnb{
+  background-color: #6AB2F2;
 }
