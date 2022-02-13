@@ -35,6 +35,8 @@
   background-color: #00CA00;
   text-decoration: none;
   padding: 1px;
+  padding-left: 1px;
+  padding-right: 1px;
 }
 #join{
   color: black;
@@ -64,6 +66,10 @@ div{
   min-width: 1000px;
   max-width: 1500px;
   margin: 0 auto;
+}
+#logo{
+  width: 5px;
+  height: 5px;
 }
 /* .flex-container {
     display: flex;
