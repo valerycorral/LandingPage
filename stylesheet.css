@@ -31,12 +31,12 @@
 }
 
 #si{
-  border-radius: 10px;
+  border-radius: 8px;
   background-color: #00CA00;
   text-decoration: none;
   padding: 1px;
-  padding-left: 1px;
-  padding-right: 1px;
+  padding-left: 2px;
+  padding-right: 2px;
 }
 #join{
   color: black;
