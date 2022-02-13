@@ -1,18 +1,38 @@
 .navbar ul{
   list-style:none;
-  width: 500px;
+  width: 1000px;
   margin: 0 auto;
-  background-color: white;
+  background-color: #6AB2F2;
   text-align: center;
 }
 .navbar li{
   width: 150px;
-  background-color: white;
+  background-color: #6AB2F2;
   border:1px solid black ;
   padding 50px;
   display: inline-block;
   line-height: 40px;
+  color:white;
+}
+.signin ul{
+  list-style: none;
+  width: 500px;
+  margin: 0 auto;
+  background-color: white;
+  test-align:center;
+
+}
+#si{
+  border-radius:60%;
+  background-color: #00FF00;
+  color: white;
+
 }
 .bnb{
   background-color: #6AB2F2;
 }
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+
+  }
