@@ -34,6 +34,7 @@
   border-radius: 30%;
   background-color: #00CA00;
   text-decoration: none;
+  padding: 20px;
 }
 #join{
   color: black;
@@ -42,13 +43,15 @@
 .let{
   color:white;
   text-decoration: none;
+  font-weight: bold;
+  font-size: 30px;
 }
 .bnb{
   background-color: #6AB2F2;
 }
 iframe{
   overflow: hidden;
-  width : 500%;
+  width : 100%;
 }
 /* .flex-container {
     display: flex;
