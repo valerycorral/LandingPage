@@ -1,3 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+title{
+  font-family:  'Luckiest Guy', cursive;;
+  color:orange;
+}
 .navbar ul{
   list-style:none;
   width: 100%;
