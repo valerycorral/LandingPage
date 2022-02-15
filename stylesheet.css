@@ -1,8 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
-h1{
-  font-family:  'Luckiest Guy', cursive;;
-  color:orange;
-}
+
 .navbar ul{
   list-style:none;
   width: 100%;
@@ -81,6 +77,8 @@ iframe{
 #Ilogo{
   width: 40px;
   height: auto;
+  color:white;
+
   /* text-align: left;
   padding-right: 0px; */
 }
