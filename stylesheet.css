@@ -79,6 +79,9 @@ iframe{
   /* text-align: left;
   padding-right: 0px; */
 }
+#bottom{
+  background-color: #D7D7D7;
+}
 /* .flex-container {
     display: flex;
     flex-wrap: wrap;
