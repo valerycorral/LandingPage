@@ -3,12 +3,12 @@
   list-style:none;
   width: 100%;
   margin: 0 auto;
-  background-color: #C3E5EF;
+  background-color:white;
   text-align: center;
 }
 .navbar li{
   width: 150px;
-  background-color: #C3E5EF;
+  background-color:white ;
   padding: 10px;
   display: inline-block;
   line-height: 40px;
@@ -17,34 +17,34 @@
 .signin ul{
   list-style: none;
   width: 100%;
-  background-color: white;
+  background-color: #C3E5EF;
   margin: 0 auto;
   text-align: center;
 
 }
 .signin li{
   width: 150px;
-  background-color: white;
+  background-color:  #C3E5EF;
   padding 20px;
   display: inline-block;
   line-height: 40px;
 
 }
 
-#si{
+/* #si{
   border-radius: 8px;
   background-color: #00CA00;
   text-decoration: none;
   padding: 3px;
   padding-left: 2px;
   padding-right: 2px;
-}
+} */
 #join{
   color: black;
   text-decoration: none;
 }
 .let{
-  color:white;
+
   text-decoration: none;
   font-weight: bold;
   font-size: 15px;
