@@ -97,7 +97,7 @@ iframe{
 /* apple store button */
 }
 #faqpic{
-  width:40px;
+  width:90px;
   height: auto;
 }
 .left{
@@ -123,6 +123,9 @@ h3{
   border: 1px solid black;
   padding-left: none;
   padding-right: none;
+}
+.hp{
+  overflow: scroll;
 }
 /* .flex-container {
     display: flex;
