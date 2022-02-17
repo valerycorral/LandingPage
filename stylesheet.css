@@ -24,11 +24,11 @@ nav li{
 
 
 .intro h2 p{
-  margin:0;
-  padding:0;
+  /* margin:0;
+  padding:0; */
   text-align: center;
-  position:relative;
-  top:50%;
+  /* position:relative;
+  top:50%; */
 }
 .let{
   color:black;
