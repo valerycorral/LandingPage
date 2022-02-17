@@ -76,7 +76,10 @@ iframe{
  max-width: 1500px;
  margin: 0 auto; */
 }
-
+.im{
+  width:10px;
+  hight:auto;
+}
 #Ilogo{
   width: 50px;
   height: auto;
