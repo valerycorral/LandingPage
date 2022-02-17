@@ -92,7 +92,13 @@ iframe{
 }
 
 #button{
+  width:40px;
+  height: auto;
 /* apple store button */
+}
+#faqpic{
+  width:40px;
+  height: auto;
 }
 .left{
   float: left;
