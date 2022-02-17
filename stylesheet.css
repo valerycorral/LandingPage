@@ -83,7 +83,7 @@ iframe{
   color:white;
 }
 
-#Title{
+#title{
     text-align: left;
 }
 #bodyimg{
@@ -106,19 +106,14 @@ iframe{
 .right{
   float: right;
 }
-gs{
+.gs{
     text-align: center;
 
 }
-h1{
+h1 h2 h3 {
   font-family: 'Inter', sans-serif;
 }
-h2{
-  font-family: 'Inter', sans-serif;
-}
-h3{
-  font-family: 'Inter', sans-serif;
-}
+
 #jo{
   border: 1px solid black;
   padding-left: none;
