@@ -33,43 +33,18 @@ nav li{
   text-transform:uppercase;
   font-size:10px;
 }
-.bod{
+#bod{
   overflow-y: scroll;
   scroll-behavior: smooth;
 }
-/* .navbar li{
-  width: 150px;
-  background-color:white ;
-  padding: 10px;
-  display: inline-block;
-  line-height: 40px;
-
-} */
-/* .signin ul{
-  list-style: none;
-  width: 100%;
-  background-color: #C3E5EF;
-  margin: 0 auto;
-  text-align: center;
-
+.bod{
+  width:100%;
 }
-.signin li{
-  width: 150px;
-  background-color:  #C3E5EF;
-  padding 20px;
-  display: inline-block;
-  line-height: 40px;
+#title{
+  text-align:center;
+  size:20px;
+}
 
-} */
-
-/* #si{
-  border-radius: 8px;
-  background-color: #00CA00;
-  text-decoration: none;
-  padding: 3px;
-  padding-left: 2px;
-  padding-right: 2px;
-} */
 #join{
   color: black;
   text-decoration: none;
@@ -95,32 +70,12 @@ iframe{
  margin: 0 auto; */
 }
 
-
-
-/* .dl{
-  width:200px;
-  margin-left: 40px;
-  background-color: orange;
-} */
-/* #title{
-  text-align: left;
-  padding-right: 0px;
-} */
-
-  /* text-align: left;
-  padding-right: 0px; */
 #Ilogo{
   width: 40px;
   height: auto;
   color:white;
 }
- /* #title{
-    float:left;
-    color:black;
-    text-decoration:none;
-    text-transform:uppercase;
-    font-size:10px;
-} */
+
 #bodyimg{
     text-align: right;
     /*music image*/
@@ -163,3 +118,56 @@ h1 h2 h3 {
     flex-wrap: wrap;
 
   } */
+
+  /* .navbar li{
+    width: 150px;
+    background-color:white ;
+    padding: 10px;
+    display: inline-block;
+    line-height: 40px;
+
+  } */
+  /* .signin ul{
+    list-style: none;
+    width: 100%;
+    background-color: #C3E5EF;
+    margin: 0 auto;
+    text-align: center;
+
+  }
+  .signin li{
+    width: 150px;
+    background-color:  #C3E5EF;
+    padding 20px;
+    display: inline-block;
+    line-height: 40px;
+
+  } */
+
+  /* #si{
+    border-radius: 8px;
+    background-color: #00CA00;
+    text-decoration: none;
+    padding: 3px;
+    padding-left: 2px;
+    padding-right: 2px;
+  } */
+  /* #title{
+     float:left;
+     color:black;
+     text-decoration:none;
+     text-transform:uppercase;
+     font-size:10px;
+ } */
+ /* .dl{
+   width:200px;
+   margin-left: 40px;
+   background-color: orange;
+ } */
+ /* #title{
+   text-align: left;
+   padding-right: 0px;
+ } */
+
+   /* text-align: left;
+   padding-right: 0px; */
