@@ -106,7 +106,7 @@ iframe{
 .right{
   float: right;
 }
-#gs{
+gs{
     text-align: center;
 
 }
@@ -127,6 +127,7 @@ h3{
 .hp{
   overflow: scroll;
 }
+
 /* .flex-container {
     display: flex;
     flex-wrap: wrap;
