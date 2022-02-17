@@ -22,6 +22,14 @@ nav li{
   /* padding-top:25px; */
 }
 
+
+.intro h2 p{
+  margin:0;
+  padding:0;
+  text-align: center;
+  position:relative;
+  top:50%;
+}
 .let{
   color:black;
   text-decoration:none;
@@ -37,7 +45,7 @@ nav li{
 }
 #title{
   text-align:center;
-  size:20px;
+   size:20px;
 }
 
 #join{
