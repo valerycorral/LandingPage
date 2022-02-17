@@ -40,6 +40,10 @@ nav li{
   overflow-y: scroll;
   scroll-behavior: smooth;
 } */
+#intro{
+  height:30%;
+
+}
 .bod{
   width:100%;
 }
