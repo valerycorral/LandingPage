@@ -1,19 +1,22 @@
 
 .navbar ul{
-  list-style:none;
+  /* list-style:none;
   width: 100%;
   margin: 0 auto;
   background-color:orange;
-  text-align: center;
+  text-align: center; */
+  list-style-type: none;
+ margin: 0;
+ padding: 0;
 }
-.navbar li{
+/* .navbar li{
   width: 150px;
   background-color:white ;
   padding: 10px;
   display: inline-block;
   line-height: 40px;
 
-}
+} */
 .signin ul{
   list-style: none;
   width: 100%;
