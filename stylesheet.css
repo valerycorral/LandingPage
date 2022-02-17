@@ -3,12 +3,12 @@
   list-style:none;
   width: 100%;
   margin: 0 auto;
-  background-color: #6AB2F2;
+  background-color: #C3E5EF;
   text-align: center;
 }
 .navbar li{
   width: 150px;
-  background-color: #6AB2F2;
+  background-color: #C3E5EF;
   padding: 10px;
   display: inline-block;
   line-height: 40px;
@@ -50,7 +50,7 @@
   font-size: 15px;
 }
 .bnb{
-  background-color: #6AB2F2;
+  background-color: ##EEEEEE;
 }
 iframe{
   width:100%;
@@ -64,6 +64,7 @@ iframe{
 }
 
 
+
 /* .dl{
   width:200px;
   margin-left: 40px;
@@ -74,16 +75,43 @@ iframe{
   padding-right: 0px;
 } */
 
-#Ilogo{
-  width: 40px;
-  height: auto;
-  color:white;
-
   /* text-align: left;
   padding-right: 0px; */
+
+#Title{
+    text-align: left;
 }
-#bottom{
-  background-color: #D7D7D7;
+#bodyimg{
+    text-align: right;
+    /*music image*/
+}
+
+#button{
+/* apple store button */
+}
+.left{
+  float: left;
+}
+.right{
+  float: right;
+}
+#gs{
+    text-align: center;
+
+}
+h1{
+  font-family: 'Inter', sans-serif;
+}
+h2{
+  font-family: 'Inter', sans-serif;
+}
+h3{
+  font-family: 'Inter', sans-serif;
+}
+#jo{
+  border: 1px solid black;
+  padding-left: none;
+  padding-right: none;
 }
 /* .flex-container {
     display: flex;
