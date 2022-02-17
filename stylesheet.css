@@ -9,6 +9,7 @@ header ::after{
 .logo{
   float:left;
   padding:10px 0;
+  display:inline-block;
 }
 nav{
   float:right;
@@ -108,9 +109,9 @@ iframe{
   color:white;
 }
 
-#title{
+/* #title{
     float:left;
-}
+} */
 #bodyimg{
     text-align: right;
     /*music image*/
