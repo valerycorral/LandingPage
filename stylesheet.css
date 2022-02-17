@@ -23,6 +23,7 @@ nav ul{
 nav li{
   display:inline-block;
   margin:40px;
+  padding:10pxl
   /* padding-top:25px; */
 }
 
@@ -31,6 +32,10 @@ nav li{
   text-decoration:none;
   text-transform:uppercase;
   font-size:10px;
+}
+.bod{
+  overflow-y: scroll;
+  scroll-behavior: smooth;
 }
 /* .navbar li{
   width: 150px;
