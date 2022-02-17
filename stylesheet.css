@@ -45,7 +45,7 @@ nav li{
 }
 #title{
   text-align:center;
-   size:20px;
+   size:40px;
 }
 
 #join{
@@ -59,8 +59,8 @@ nav li{
   font-size: 15px;
   color:black;
 }
-.bnb{
-  background-color: ##EEEEEE;
+.bot{
+  background-color: #EEEEEE;
 }
 iframe{
   width:100%;
@@ -93,10 +93,10 @@ iframe{
   height: auto;
 /* apple store button */
 }
-#faqpic{
+/* #faqpic{
   width:90px;
   height: auto;
-}
+} */
 .left{
   float: left;
 }
