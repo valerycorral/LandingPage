@@ -1,13 +1,33 @@
 
-.navbar ul{
+.nav{
   /* list-style:none;
   width: 100%;
   margin: 0 auto;
   background-color:orange;
   text-align: center; */
   list-style-type: none;
- margin: 0;
- padding: 0;
+  width:80%;
+ margin: 0 auto;
+
+}
+header{
+  background: #C3E5EF;
+}
+header ::after{
+  content: '';
+  display: table;
+  clear:both;
+}
+.left{
+  float:left;
+}
+nav{
+  float:right;
+}
+nav ul{
+  margin:0;
+  padding: 0;
+  list-style:none;
 }
 /* .navbar li{
   width: 150px;
