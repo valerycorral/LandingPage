@@ -6,7 +6,7 @@ header ::after{
   display: table;
   clear:both;
 }
-.left{
+.logo{
   float:left;
   padding:10px 0;
 }
