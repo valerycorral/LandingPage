@@ -84,8 +84,12 @@ iframe{
  margin: 0 auto; */
 }
 .im{
-  width:80px;
+  width:100px;
   hight:auto;
+}
+.intro{
+  width:100%;
+  height: auto;
 }
 #Ilogo{
   width: 60px;
