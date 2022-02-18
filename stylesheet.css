@@ -23,8 +23,6 @@ overflow: hidden;
   top:0;
 } */
 #top5{
-  height: 80px;
-
   background-color: white;
 }
 header ::after{
