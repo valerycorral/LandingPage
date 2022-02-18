@@ -25,7 +25,7 @@ overflow: hidden;
   top:0;
 } */
 #top5{
-background-color: orange;
+background-color: green;
 padding-top: 20em;
 padding-bottom: 20em;
 }
@@ -70,14 +70,14 @@ width: 50%;
 height: 50%;
 
 }
-.bod{
+/* .bod{
   width:100%;
-}
+} */
 #title{
 
   text-align:center;
    size:40px;
-   padding-top: 15em;
+   padding-top: 10em;
    padding-bottom: 3em;
 }
 
@@ -95,7 +95,7 @@ height: 50%;
 .bot{
   background-color: #DCDCDC;
     width:100%;
-    padding-top: 8em;
+    padding-top: 10em;
     padding-bottom: 30px;
 }
 .gs{
