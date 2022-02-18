@@ -1,4 +1,5 @@
-.container{
+.flexbox-container{
+  display:flex;
   /* display: flex;
   flex-wrap: wrap; */
   /* position:relative; */
