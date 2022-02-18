@@ -37,14 +37,11 @@ nav li{
   padding:5px;
   /* padding-top:25px; */
 }
-#mn{
-  width:100%;
-  height: auto;
-}
+
 .d{
   position: absolute;
 }
-.intro h2 p{
+#intro h2 p{
   /* margin:0;
   padding:0; */
   text-align: center;
