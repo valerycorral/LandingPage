@@ -84,7 +84,7 @@ iframe{
  margin: 0 auto; */
 }
 .im{
-  width:50px;
+  width:80px;
   hight:auto;
 }
 #Ilogo{
@@ -133,9 +133,6 @@ h1 h2 h3 {
   border: 1px solid black;
   padding-left: none;
   padding-right: none;
-}
-.hp{
-  overflow: scroll;
 }
 
 /* .flex-container {
