@@ -10,6 +10,8 @@ header{
 }
 #green{
   background-color: blue;
+  position:relative;
+  bottom: 50px;
 }
 /* .navbar{
 overflow: hidden;
@@ -38,9 +40,9 @@ nav li{
   /* padding-top:25px; */
 }
 
-.d{
+/* .d{
   position: absolute;
-}
+} */
 #intro h2 p{
   /* margin:0;
   padding:0; */
