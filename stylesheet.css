@@ -16,7 +16,7 @@ overflow: hidden;
   top:0;
 
 } */
-.navbar ::after{
+header ::after{
   content: '';
   display: table;
   clear:both;
