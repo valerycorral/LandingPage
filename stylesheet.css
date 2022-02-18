@@ -1,6 +1,6 @@
 .container{
-  display: flex;
-  flex-wrap: wrap;
+  /* display: flex;
+  flex-wrap: wrap; */
   position:relative;
 
 }
@@ -13,12 +13,12 @@ header ::after{
   display: table;
   clear:both;
 }
-/* .navbar{
+.navbar{
   position: fixed;
   width:100%;
   top:0;
 
-} */
+}
 nav{
   float:right;
 }
@@ -121,7 +121,7 @@ iframe{
 
 #button{
   text-align: center;
-  width:60px;
+  width:80px;
   height: auto;
 /* apple store button */
 }
@@ -148,6 +148,7 @@ h1 h2 h3 {
 
 #jo{
   border: 1px solid black;
+  text-align: center;
   padding-left: none;
   padding-right: none;
 }
