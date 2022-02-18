@@ -9,18 +9,15 @@
 
 header{
   background: #C3E5EF;
+  overflow: hidden;
+    position: fixed;
 }
-#green{
-  background-color: blue;
-  position:relative;
-  bottom: 50px;
-}
+
 /* .navbar{
 overflow: hidden;
   position: fixed;
   width:100%;
   top:0;
-
 } */
 #top5{
   background-color: white;
