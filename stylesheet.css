@@ -1,7 +1,7 @@
 .flexbox-container{
   display:flex;
   background-color: white;
-  padding-top: 15em;
+  padding-top: 9em;
   /* display: flex;
   flex-wrap: wrap; */
   /* position:relative; */
@@ -25,7 +25,7 @@ overflow: hidden;
   top:0;
 } */
 #top5{
-background-color: white;
+background-color: orange;
 padding-top: 20em;
 padding-bottom: 20em;
 }
@@ -77,8 +77,8 @@ height: 50%;
 
   text-align:center;
    size:40px;
-   padding-top: 20em;
-   padding-bottom: 5em;
+   padding-top: 15em;
+   padding-bottom: 3em;
 }
 
 /* #join{
@@ -95,7 +95,7 @@ height: 50%;
 .bot{
   background-color: #DCDCDC;
     width:100%;
-    padding-top: 10em;
+    padding-top: 8em;
     padding-bottom: 30px;
 }
 .gs{
