@@ -1,7 +1,7 @@
 .flexbox-container{
   display:flex;
   background-color: white;
-  padding-top: 5em;
+  padding-top: 3em;
   /* display: flex;
   flex-wrap: wrap; */
   /* position:relative; */
@@ -26,8 +26,8 @@ overflow: hidden;
 } */
 #top5{
 background-color: white;
-padding-top: 20em;
-padding-bottom: 20em;
+padding-top: 15em;
+padding-bottom: 15em;
 }
 header ::after{
   content: '';
@@ -78,7 +78,7 @@ height: 50%;
   text-align:center;
    size:65px;
    padding-top: 5em;
-   padding-bottom: 2em;
+   padding-bottom: 1em;
 }
 
 /* #join{
@@ -95,7 +95,7 @@ height: 50%;
 .bot{
   background-color: #DCDCDC;
     width:100%;
-    padding-top: 10em;
+    padding-top: 8em;
     padding-bottom: 30px;
 }
 .gs{
@@ -160,7 +160,7 @@ iframe{
   height: auto;
 } */
 h4{
-  padding-bottom: 5em;
+  padding-bottom: 3em;
 }
 .left{
   float: left;
@@ -171,7 +171,7 @@ h4{
 .hp{
   margin: 0 auto;
   width:70%;
-  padding-top: 12em;
+  padding-top: 9em;
   /* margin-left: auto;
   margin-right: auto; */
 
