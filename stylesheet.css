@@ -41,7 +41,9 @@ nav li{
   width:100%;
   height: auto;
 }
-
+.d{
+  position: absolute;
+}
 .intro h2 p{
   /* margin:0;
   padding:0; */
