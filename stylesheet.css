@@ -1,6 +1,7 @@
 .container{
   display: flex;
   flex-wrap: wrap;
+  position:relative;
 
 }
 
@@ -12,7 +13,12 @@ header ::after{
   display: table;
   clear:both;
 }
+/* .navbar{
+  position: fixed;
+  width:100%;
+  top:0;
 
+} */
 nav{
   float:right;
 }
@@ -55,6 +61,7 @@ width: 50%;
   width:100%;
 }
 #title{
+  position: absolute;
   text-align:center;
    size:40px;
 }
@@ -73,6 +80,9 @@ width: 50%;
 .bot{
   background-color: #DCDCDC;
     width:100%;
+}
+.gs{
+  text-align:center;
 }
 iframe{
   width:100%;
