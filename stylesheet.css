@@ -11,6 +11,9 @@ header{
   background: #C3E5EF;
   overflow: hidden;
     position: fixed;
+    width:100%;
+    top:0;
+
 }
 
 /* .navbar{
@@ -136,6 +139,7 @@ iframe{
 #button{
   width:100px;
   height: auto;
+   display: block;
   margin-left: auto;
  margin-right: auto;
 /* apple store button */
