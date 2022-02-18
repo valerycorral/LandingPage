@@ -100,11 +100,13 @@ iframe{
 
 #bodyimg{
     text-align: right;
+
     /*music image*/
 }
 
 #button{
-  width:40px;
+  text-align: center;
+  width:60px;
   height: auto;
 /* apple store button */
 }
