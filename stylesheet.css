@@ -25,7 +25,8 @@ overflow: hidden;
 } */
 #top5{
   background-color: white;
-  height: 50%;
+padding-top: 30px;
+padding-bottom: 30px;
 }
 header ::after{
   content: '';
@@ -91,6 +92,8 @@ height: 50%;
 .bot{
   background-color: #DCDCDC;
     width:100%;
+    padding-top: 30px;
+    padding-bottom: 30px; 
 }
 .gs{
   text-align:center;
