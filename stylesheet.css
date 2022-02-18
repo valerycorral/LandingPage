@@ -9,13 +9,13 @@ header{
   background: #C3E5EF;
 }
 
-.navbar{
+/* .navbar{
 overflow: hidden;
   position: fixed;
   width:100%;
   top:0;
 
-}
+} */
 .navbar ::after{
   content: '';
   display: table;
