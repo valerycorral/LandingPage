@@ -134,10 +134,14 @@ iframe{
 } */
 
 #button{
-  text-align: center;
-  width:80px;
+  width:100px;
   height: auto;
+  margin-left: auto;
+ margin-right: auto;
 /* apple store button */
+}
+h4{
+  text-align: center;
 }
 /* #faqpic{
   width:90px;
