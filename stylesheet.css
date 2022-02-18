@@ -8,17 +8,18 @@
 header{
   background: #C3E5EF;
 }
-header ::after{
-  content: '';
-  display: table;
-  clear:both;
-}
+
 .navbar{
 overflow: hidden;
   position: fixed;
   width:100%;
   top:0;
 
+}
+.navbar ::after{
+  content: '';
+  display: table;
+  clear:both;
 }
 nav{
   float:right;
