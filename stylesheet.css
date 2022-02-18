@@ -1,3 +1,8 @@
+.container{
+  display: flex;
+  flex-wrap: wrap;
+}
+
 header{
   background: #C3E5EF;
 }
@@ -81,11 +86,12 @@ iframe{
   hight:auto;
 }
 #Ilogo{
-  width: 50px;
+  width: 60px;
   height: auto;
   color:white;
   float:left;
   padding:10px 0;
+  padding-top: 50px;
   display:inline-block;
   padding-left: 20px;
 }
