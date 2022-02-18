@@ -119,6 +119,10 @@ iframe{
 
     /*music image*/
 }
+#top5{
+  height: 20%;
+  width: auto;
+}
 
 #button{
   text-align: center;
