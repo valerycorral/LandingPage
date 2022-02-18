@@ -13,12 +13,13 @@ header ::after{
   display: table;
   clear:both;
 }
-/* .navbar{
+.navbar{
+overflow: hidden;
   position: fixed;
   width:100%;
   top:0;
 
-} */
+}
 nav{
   float:right;
 }
@@ -61,7 +62,7 @@ width: 50%;
   width:100%;
 }
 #title{
-  
+
   text-align:center;
    size:40px;
 }
